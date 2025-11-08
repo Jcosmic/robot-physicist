@@ -1,0 +1,10 @@
+---
+title: "robot-physicist-website"
+---
+
+## Somos los analistas de gatos
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
